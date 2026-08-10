@@ -99,5 +99,87 @@ Now the Multi-Directional Switches for this I have choose this
 
 _Total Time = 2.2hrs_
 
+## Now the Microphone and the small leds
+
+For this I will use the XL-1608UBC leds and for the microphone I will go for the INMP441 MEMS High Precision Omnidirectional Microphone Module I2S as this is budget friendly also meets the requirements that I needed to make this project so that I can use it for the voice commands through the micro pad, and it will directly showcase in the desktop
+
+<img width="1323" height="720" alt="Screenshot 2026-08-11 at 3 55 51 AM" src="https://github.com/user-attachments/assets/cd1334b8-9be3-494d-839b-5178d1124cd7" />
+
+### Datasheet - [Link Doc](https://robu-prod-media.s3.ap-south-1.amazonaws.com/products/attachments/9MGXhjupqmHXpZtpmVg7DCaznTPNYbZJjBvXqi6P.pdf)
+
+<img width="1429" height="799" alt="Screenshot 2026-08-11 at 3 56 03 AM" src="https://github.com/user-attachments/assets/9d49aa57-e487-4769-a570-fb7c5e633457" />
+
+
+<img width="1085" height="550" alt="Screenshot 2026-08-11 at 3 56 47 AM" src="https://github.com/user-attachments/assets/fac45fdb-3825-4b2e-87fb-692ce621fbe4" />
+
+### PCB DESIGN AND LAND PATTERN LAYOUT
+
+<img width="517" height="609" alt="Screenshot 2026-08-11 at 3 57 11 AM" src="https://github.com/user-attachments/assets/d9614d34-0f6f-46fb-885a-c9fb61b52567" />
+
+
+### Digital Low-Pass Filter Magnitude Response - will work for this project 
+
+<img width="769" height="556" alt="Screenshot 2026-08-11 at 3 58 02 AM" src="https://github.com/user-attachments/assets/0ae3bc76-ac65-4b0c-9bc9-a27b0c0d38e1" />
+
+### Footprint on EasyEDA
+
+<img width="1134" height="605" alt="Screenshot 2026-08-11 at 3 58 42 AM" src="https://github.com/user-attachments/assets/f51936f3-3880-4c1a-b1cf-62f9fc1ff4b5" />
+
+<img width="1131" height="603" alt="Screenshot 2026-08-11 at 3 59 42 AM" src="https://github.com/user-attachments/assets/e87f5fe6-6799-436a-8160-f529371db291" />
+
+This took me a lot of time to cross verify the project again and again so that it will works fine so that I can make the PCB perfectly with all of this components 
+
+_Total Time = 2hrs_
+
+---
+
+## Now the schematic of the PCB
+This look a lot of time for me to correctly choose the components and then the footprint that will match with the datasheet of the components.
+So for this I first add all the components to the schematic page and they connecting all the components one by one 
+
+### The Waveshare RP2040-Zero
+
+<img width="1240" height="650" alt="Screenshot 2026-08-11 at 4 05 33 AM" src="https://github.com/user-attachments/assets/1596f069-3f93-4d57-a5ad-0d424c52f6d1" />
+
+
+### The Smd leds
+
+<img width="1001" height="706" alt="Screenshot 2026-08-11 at 4 06 17 AM" src="https://github.com/user-attachments/assets/7ca2c6dc-cd38-4699-b606-532f03d8aebe" />
+
+### The Micro phone 
+
+<img width="958" height="452" alt="Screenshot 2026-08-11 at 4 06 58 AM" src="https://github.com/user-attachments/assets/a2aa7e50-b3ee-4343-a5d7-7b0f282e45a7" />
+
+### The rotary encoder switch
+
+<img width="392" height="184" alt="Screenshot 2026-08-11 at 4 07 10 AM" src="https://github.com/user-attachments/assets/b3760b38-d627-434f-be3d-518f37ee7399" />
+
+
+### The joystick switch
+
+<img width="383" height="192" alt="Screenshot 2026-08-11 at 4 07 37 AM" src="https://github.com/user-attachments/assets/3b90c9b0-ef10-4f87-a7a3-fc3c7aee677f" />
+
+### all 12 switches with 12 1N4148 1W Zener Diode 
+
+<img width="789" height="361" alt="Screenshot 2026-08-11 at 4 08 17 AM" src="https://github.com/user-attachments/assets/85ffdc86-3419-455a-b951-522fa1f3cff4" />
+
+
+<img width="603" height="425" alt="Screenshot 2026-08-11 at 4 09 41 AM" src="https://github.com/user-attachments/assets/1cbd441d-3111-4251-b824-732ecdad96ee" />
+
+**Now I need to make some changes to the schematic and after that it will be good to go**
+
+**all are correct the U_21 had no connection so it will be blank**
+
+<img width="280" height="419" alt="Screenshot 2026-08-11 at 4 11 21 AM" src="https://github.com/user-attachments/assets/497596af-fb36-4037-9869-f3b962e0ba8e" />
+
+## Final schematic 
+
+<img width="708" height="488" alt="Screenshot 2026-08-11 at 4 10 45 AM" src="https://github.com/user-attachments/assets/f59c14d5-39fd-42cd-8157-36341038fb59" />
+
+_Total Time = 4hrs_
+
+
+
+
 
 
