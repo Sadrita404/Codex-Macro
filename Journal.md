@@ -47,7 +47,7 @@ So after a going to websites I have found many low profile switches but I could 
 <img width="1437" height="806" alt="Screenshot 2026-08-11 at 3 23 00 AM" src="https://github.com/user-attachments/assets/fdf60feb-3ec3-4932-8876-825a70de5e1a" />
 
 
-### Kailh Choc v2 Low Profile Switche - [Datasheet DOC](https://cdn.shopify.com/s/files/1/0657/6075/5954/files/SPEC-CPG135301D03_Kailh_Choc_V2_Low_Profile_Blue_Switch.pdf?v=1666690510)
+### Kailh Choc v2 Low Profile Switches - [Datasheet DOC](https://cdn.shopify.com/s/files/1/0657/6075/5954/files/SPEC-CPG135301D03_Kailh_Choc_V2_Low_Profile_Blue_Switch.pdf?v=1666690510)
 
 
 <img width="1009" height="565" alt="Screenshot 2026-08-11 at 3 13 55 AM" src="https://github.com/user-attachments/assets/99a66da3-a2a0-4112-87a8-6afca64c1faa" />
@@ -63,9 +63,41 @@ So after a going to websites I have found many low profile switches but I could 
 
 So from the datasheet I write all the important details about the switches that I need to make the pcb like the clearence , distance ,etc
 
+### Footprint in EasyEDA for  Kailh Choc v2 Low Profile Switches
+
+<img width="1127" height="602" alt="Screenshot 2026-08-11 at 3 41 57 AM" src="https://github.com/user-attachments/assets/d45a3820-d8ec-4931-868a-6fc6318ffff8" />
+
+
 _Total Time = 1.3hrs_
 
 ---
+
+## Now the rotary encoder switch and the joystick switch 5 way
+For this I found some of the options but most of them are not available in India so I need to search for more components and then I found out all the options in the robu also I got the right footprint for all the components and I match the foot prints in the EasyEDA website and they were all correct and good to go with the PCb and the Waveshare RP2040-Zero the main board 
+
+<img width="1314" height="700" alt="Screenshot 2026-08-11 at 3 37 31 AM" src="https://github.com/user-attachments/assets/73080a81-a3b3-445c-9047-95c2ba1c3096" />
+
+### Datasheet - [Link Doc](https://robu-prod-media.s3.ap-south-1.amazonaws.com/products/attachments/euNhwNi9MOSVJ2z0tQazayT965JqkDky92OkwhHG.pdf)
+
+<img width="450" height="628" alt="Screenshot 2026-08-11 at 3 38 15 AM" src="https://github.com/user-attachments/assets/d874327d-70d9-4dbc-98e2-9e1f10bfead2" />
+
+
+
+<img width="1117" height="592" alt="Screenshot 2026-08-11 at 3 36 27 AM" src="https://github.com/user-attachments/assets/6b8a70fc-1224-43d7-950d-c5ac8f62ad96" />
+
+
+Now the Multi-Directional Switches for this I have choose this
+
+<img width="1259" height="674" alt="Screenshot 2026-08-11 at 3 39 21 AM" src="https://github.com/user-attachments/assets/ccf6f635-cbea-46f5-b403-306da29b4b99" />
+
+### Datasheet - [Link Doc](https://robu-prod-media.s3.ap-south-1.amazonaws.com/uploads/2025/08/C2858290.pdf)
+
+<img width="1430" height="801" alt="Screenshot 2026-08-11 at 3 39 54 AM" src="https://github.com/user-attachments/assets/d84d6493-5571-4391-9609-f9ccb3c18836" />
+
+<img width="1074" height="523" alt="Screenshot 2026-08-11 at 3 40 35 AM" src="https://github.com/user-attachments/assets/34759bc3-8a58-44ad-a87b-03771d3254b6" />
+<img width="1139" height="603" alt="Screenshot 2026-08-11 at 3 40 51 AM" src="https://github.com/user-attachments/assets/f6d32613-e9ab-4de3-9100-1262cb82406d" />
+
+_Total Time = 2.2hrs_
 
 
 
