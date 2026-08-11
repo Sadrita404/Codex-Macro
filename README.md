@@ -31,6 +31,7 @@ So for using this project, we can do it directly connected to our desktop or lap
 
 
 <div align="center">
+  
 ## Schematic
 
 <img width="701" height="471" alt="Screenshot 2026-08-11 at 6 11 34 AM" src="https://github.com/user-attachments/assets/89a10cda-1df2-4c87-9c26-6c28e05c63b4" />
