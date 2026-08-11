@@ -210,6 +210,11 @@ _Total Time = 1.3hrs_
 ## Final PCB Done
 After a lot of doing the PCB and making some changes to the schematic, also, I forgot to add the resistor to the small LED after that, I have also placed the components in such a way as that all the switch along with the key caps are now perfectly fit, and I have also placed the microphone LED Rotary encoder all of this in the correct places along with. I have also make that trace line width to more wide for good connectivity and added some good silk screen .
 
+### DRC Check all OKK
+
+<img width="312" height="288" alt="Screenshot 2026-08-11 at 7 35 09 AM" src="https://github.com/user-attachments/assets/75d6d0b7-cff9-47f0-aa92-ba51b7397b83" />
+
+
 <img width="658" height="588" alt="Screenshot 2026-08-11 at 4 25 05 AM" src="https://github.com/user-attachments/assets/f604bd80-14f1-4465-bb03-0046172db847" />
 
 <img width="582" height="552" alt="Screenshot 2026-08-11 at 4 25 17 AM" src="https://github.com/user-attachments/assets/b63e95a9-cbcd-4fbc-97e9-9c7a38cc3e8c" />
