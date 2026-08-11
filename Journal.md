@@ -5,12 +5,15 @@
 Total Hrs |  19.2 |
 
 ## Started design designing the product and taking info from the previous one that had already existed.
+
 So for this project the main design inspo for me was the all new Codex Micro by Open Ai ( made by the company Work Louderand I like the brand ) So I thought to make a same thing under budget as the Codex Micro is costed at $230which is too much for what it's offer so I named it " Codex Macro "
 
 #### Inspo 
+
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/16ed898a-19f2-4ba6-ad5c-37c4eae76fce" />
 
 #### Mine Design 
+
 <img width="798" height="487" alt="design" src="https://github.com/user-attachments/assets/a960c9aa-61fe-4f04-92af-0d114e3b7697" />
 
 This is just the wire frame of the project and I have made it just for the reference so that I can use it to design the PCb also the CAD model of that
@@ -30,7 +33,9 @@ Now I need to see the data sheet of this Waveshare RP2040-Zero to make sure that
 
 <img width="1415" height="709" alt="Screenshot 2026-08-11 at 3 00 20 AM" src="https://github.com/user-attachments/assets/6e035953-2ca6-4484-9604-b1da507e3669" />
 <img width="835" height="624" alt="Screenshot 2026-08-11 at 3 00 34 AM" src="https://github.com/user-attachments/assets/7b99a2e9-02cd-4579-95a1-5c4e863543c1" />
+
 ### The AHB-Lite Crossbar are perfect for the work that I will do with it 
+
 <img width="1036" height="590" alt="Screenshot 2026-08-11 at 3 00 53 AM" src="https://github.com/user-attachments/assets/70595801-e938-4d81-8be7-08bd6d6241d8" />
 
 The Power can be a problem but I will use type-c connected to it and will work good with wired connection 
@@ -38,6 +43,7 @@ The Power can be a problem but I will use type-c connected to it and will work g
 <img width="537" height="646" alt="Screenshot 2026-08-11 at 3 01 57 AM" src="https://github.com/user-attachments/assets/73157e38-cc88-4060-aaaa-4eb761a03929" />
 
 ### the Pin out 
+
 <img width="960" height="1029" alt="image" src="https://github.com/user-attachments/assets/8d194b23-1dc7-4cc2-8780-aa4c4eeed5cc" />
 
 _Total Time = 1.1hrs_
@@ -74,9 +80,12 @@ So from the datasheet I write all the important details about the switches that 
 
 _Total Time = 1.3hrs_
 
+
 ---
 
+
 ## Now the rotary encoder switch and the joystick switch 5 way
+
 For this I found some of the options but most of them are not available in India so I need to search for more components and then I found out all the options in the robu also I got the right footprint for all the components and I match the foot prints in the EasyEDA website and they were all correct and good to go with the PCb and the Waveshare RP2040-Zero the main board 
 
 <img width="1314" height="700" alt="Screenshot 2026-08-11 at 3 37 31 AM" src="https://github.com/user-attachments/assets/73080a81-a3b3-445c-9047-95c2ba1c3096" />
@@ -99,9 +108,14 @@ Now the Multi-Directional Switches for this I have choose this
 <img width="1430" height="801" alt="Screenshot 2026-08-11 at 3 39 54 AM" src="https://github.com/user-attachments/assets/d84d6493-5571-4391-9609-f9ccb3c18836" />
 
 <img width="1074" height="523" alt="Screenshot 2026-08-11 at 3 40 35 AM" src="https://github.com/user-attachments/assets/34759bc3-8a58-44ad-a87b-03771d3254b6" />
+
 <img width="1139" height="603" alt="Screenshot 2026-08-11 at 3 40 51 AM" src="https://github.com/user-attachments/assets/f6d32613-e9ab-4de3-9100-1262cb82406d" />
 
+
 _Total Time = 2.2hrs_
+
+---
+
 
 ## Now the Microphone and the small leds
 
@@ -138,6 +152,7 @@ _Total Time = 2hrs_
 ---
 
 ## Now the schematic of the PCB
+
 This look a lot of time for me to correctly choose the components and then the footprint that will match with the datasheet of the components.
 So for this I first add all the components to the schematic page and they connecting all the components one by one 
 
@@ -185,6 +200,7 @@ _Total Time = 4hrs_
 ---
 
 ## Now the PCB
+
 After completing designing the full schematic for the project. Now I convert the schematic into PCV, where I need to place all the components to their designated spot, and then I need to trace all the places and after that, I need to run the DRC check and then if everything is fine, then I can complete generating the Garber file for the project.
 
 <img width="1193" height="674" alt="Screenshot 2026-08-11 at 4 14 12 AM" src="https://github.com/user-attachments/assets/b47c27c7-1856-494d-b763-e32035120f58" />
@@ -205,9 +221,12 @@ After completing designing the full schematic for the project. Now I convert the
 
 _Total Time = 1.3hrs_
 
+
 ---
 
+
 ## Final PCB Done
+
 After a lot of doing the PCB and making some changes to the schematic, also, I forgot to add the resistor to the small LED after that, I have also placed the components in such a way as that all the switch along with the key caps are now perfectly fit, and I have also placed the microphone LED Rotary encoder all of this in the correct places along with. I have also make that trace line width to more wide for good connectivity and added some good silk screen .
 
 ### DRC Check all OKK
@@ -220,18 +239,23 @@ After a lot of doing the PCB and making some changes to the schematic, also, I f
 <img width="582" height="552" alt="Screenshot 2026-08-11 at 4 25 17 AM" src="https://github.com/user-attachments/assets/b63e95a9-cbcd-4fbc-97e9-9c7a38cc3e8c" />
 
 ### Final look 
+
 <img width="602" height="563" alt="Screenshot 2026-08-11 at 4 25 35 AM" src="https://github.com/user-attachments/assets/0b7f1ed8-34b2-4992-8937-41a34a0a364b" />
 
 <img width="544" height="533" alt="Screenshot 2026-08-11 at 4 25 49 AM" src="https://github.com/user-attachments/assets/8b86adb9-6132-4652-a1d4-3eb8c88c3a86" />
 
 _Total Time = 2hrs_
 
+
 ---
 
+
 ## Now the CAD Part for this 
+
 So for the CAD part I will go for fusion360 to make the case of this project and also the final render of it.
 
 For this first I need to take the dimensions of the PCB 
+
 <img width="593" height="516" alt="Screenshot 2026-07-25 at 7 00 01 AM" src="https://github.com/user-attachments/assets/b2286165-bb09-4d98-84a8-af393a365049" />
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 7 02 29 AM" src="https://github.com/user-attachments/assets/0f05965e-bedd-4e69-931f-71301f8bc2c6" />
@@ -253,26 +277,35 @@ _Total Time = 0.6hrs_
 So I started trying different methods like how I will make this kind of design
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 8 59 54 AM" src="https://github.com/user-attachments/assets/b5e371ea-c8a7-45e9-93dc-0afb829f07cf" />
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 00 16 AM" src="https://github.com/user-attachments/assets/08efc4d3-df93-4efc-bc29-a1612a07e788" />
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 11 09 AM" src="https://github.com/user-attachments/assets/83160d6e-61e1-4bb7-a059-c83c87962968" />
 
 **After a couple of tries I have finally made the slop like structure for the case now I need to make the base part which I will do later**
+
 This took me a lot of time as there is not dedicated tool in fusion to make this type of design so I had to make it from scratch 
 
 _Total Time = 1.1hrs_
 
+
 ---
+
 
 ## Now adding holes for the type-c and plate for the mounting holes for the threaded inserts
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 19 54 AM" src="https://github.com/user-attachments/assets/f19c4b0c-a804-4ace-b414-e177919484a8" />
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 31 55 AM" src="https://github.com/user-attachments/assets/40bee02a-9e19-4565-b5f2-461bfbe6f2fb" />
 
 _Total Time = 0.51hrs_
 
+
 ---
 
+
 ## The main base of the case 
+
 For this I want it to be like the inspo " Codex Micro " like the slant height one so I started designing that in the fusion and I have made it properly 
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 10 57 38 AM" src="https://github.com/user-attachments/assets/63240f8c-0676-43f8-a018-b8128f4e02e1" />
@@ -285,7 +318,9 @@ For this I want it to be like the inspo " Codex Micro " like the slant height on
 
 _Total Time = 0.44hrs_
 
+
 ---
+
 
 ## Now the final CAD assembly of the project 
 
@@ -309,7 +344,9 @@ _Total Time = 1.3hrs_
 ## Rendering some good images for the gitrepo 
 
 I am rendering the images since this is also helps the other user that how the final project looks like after I built it, so I prefer to render some good images since fusion 360 offers that in his own app, so I render some images so that I can also put it in the GitHub as well as it will work as the showcase of the project
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 5 33 05 PM" src="https://github.com/user-attachments/assets/12bb239f-ae2a-46ac-9bf8-e2426a6b5d94" />
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 5 33 15 PM" src="https://github.com/user-attachments/assets/dc1c379b-5d94-4138-afa3-a6fc8920ab66" />
 
 ### Final Render 
