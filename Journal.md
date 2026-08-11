@@ -15,7 +15,6 @@ So for this project the main design inspo for me was the all new Codex Micro by 
 
 This is just the wire frame of the project and I have made it just for the reference so that I can use it to design the PCb also the CAD model of that
 
-[Lapse](https://lapse.hackclub.com/timelapse/uevxfjE7NHrr)
 
 _Total Time = 15 min_
 
