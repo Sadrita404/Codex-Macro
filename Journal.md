@@ -215,6 +215,8 @@ After completing designing the full schematic for the project. Now I convert the
 
 <img width="851" height="664" alt="Screenshot 2026-08-11 at 4 20 02 AM" src="https://github.com/user-attachments/assets/542d6333-22ce-4a03-896e-d0a31548e5b3" />
 
+So after making the PCB components to their designated spot, and I am happy to see the layout that is currently coming out, and I want to replicate the codex micro and it is exactly looking like that now, I need to trace all the pads and for this, I am using 0.31mm of trace width and they should also give us in good connectivity overall.
+
 <img width="644" height="481" alt="Screenshot 2026-08-11 at 4 21 24 AM" src="https://github.com/user-attachments/assets/ba361290-03c5-4b09-9c12-1c7d2e3993b4" />
 
 ### This just the start now I need to work on the Main PCB to add all the 3d models to make the traces more wide also make the footprint to be good .
@@ -258,6 +260,8 @@ For this first I need to take the dimensions of the PCB
 
 <img width="593" height="516" alt="Screenshot 2026-07-25 at 7 00 01 AM" src="https://github.com/user-attachments/assets/b2286165-bb09-4d98-84a8-af393a365049" />
 
+So after making the PCB completed, I take the dimensions of the PCB and import that in the fusion 360 and started designing the case around it and I also left some millimetres off so that the PCB can fit inside it perfectly, like I have given a clearance for the PCB.
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 7 02 29 AM" src="https://github.com/user-attachments/assets/0f05965e-bedd-4e69-931f-71301f8bc2c6" />
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 7 49 32 AM" src="https://github.com/user-attachments/assets/ef0dfb96-35c9-4286-9b36-8deacb506770" />
@@ -274,7 +278,8 @@ _Total Time = 0.6hrs_
 
 ## Now I need to make a slop like structure for the case so that it will looks good 
 
-So I started trying different methods like how I will make this kind of design
+So I started trying different methods like how I will make this kind of design like the slop one
+For the next design part, I want the age around the PCB to be slope inwards means towards the PCB and for that, I have tried different method to do it, but I cannot find any good options in the fusion 360 where I can directly make this so I have improvise it with the slope  graph
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 8 59 54 AM" src="https://github.com/user-attachments/assets/b5e371ea-c8a7-45e9-93dc-0afb829f07cf" />
 
@@ -295,6 +300,8 @@ _Total Time = 1.1hrs_
 
 ## Now adding holes for the type-c and plate for the mounting holes for the threaded inserts
 
+After making the main case, now I want to put the PCB inside the case and for that, I need to hold it with the case using some screws and to put the screw inside the case, I have added some holes so that I can later insert some heat set insert onto it and make it functional so that I can also screw the PCB firmly with the case.
+
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 19 54 AM" src="https://github.com/user-attachments/assets/f19c4b0c-a804-4ace-b414-e177919484a8" />
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 31 55 AM" src="https://github.com/user-attachments/assets/40bee02a-9e19-4565-b5f2-461bfbe6f2fb" />
@@ -309,7 +316,9 @@ _Total Time = 0.51hrs_
 
 For this I want it to be like the inspo " Codex Micro " like the slant height one so I started designing that in the fusion and I have made it properly 
 
-<img width="1470" height="956" alt="Screenshot 2026-07-25 at 10 57 38 AM" src="https://github.com/user-attachments/assets/63240f8c-0676-43f8-a018-b8128f4e02e1" />
+<img width="1470" height="956" alt="Screenshot 2026-07-25 at 10 57 38 AM" src="https://github.com/user-attachments/assets/63240f8c-0676-43f8-a018-b8128f4e02e1" />z
+
+So as I want to replicate the open AI product, and for that, I need to elevate the macro pad little bit from the surface So as I want to replicate the open AI product, and for that, I need to elevate the micro bed little bit from the surface so to do that, I have made one circular round thing and I have make it on a angle like I have cut it on an angle so that it will tilt from the front side a little bit giving it good looking and also it is economic to use, like we don't need to move our whole palm towards the macropad to use it.
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 11 03 40 AM" src="https://github.com/user-attachments/assets/cf96343c-d426-4cbf-9515-60d3397e8418" />
 
