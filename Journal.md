@@ -280,7 +280,8 @@ So I started trying different methods like how I will make this kind of design
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 00 16 AM" src="https://github.com/user-attachments/assets/08efc4d3-df93-4efc-bc29-a1612a07e788" />
 
-<img width="1470" height="956" alt="Screenshot 2026-07-25 at 9 11 09 AM" src="https://github.com/user-attachments/assets/83160d6e-61e1-4bb7-a059-c83c87962968" />
+<img width="591" height="478" alt="Screenshot 2026-08-19 at 11 50 10 PM" src="https://github.com/user-attachments/assets/fca65238-2dac-46c3-b683-5686609af9ab" />
+
 
 **After a couple of tries I have finally made the slop like structure for the case now I need to make the base part which I will do later**
 
@@ -328,9 +329,10 @@ So I started downloading all the 3d models for the switches , keycaps , mic , en
 
 I have finally assemble all the components into the final CAD model and export it, and after that, I will publish it to the GitHub. This took me a lot of time to make the alignment correct, but after all of that, the final project turned out to be good. I like it.
 
-<img width="1470" height="956" alt="Screenshot 2026-07-25 at 11 41 38 AM" src="https://github.com/user-attachments/assets/f1678739-0d30-40cd-b3d0-d2b05836a2e1" />
+<img width="654" height="480" alt="Screenshot 2026-08-19 at 11 54 23 PM" src="https://github.com/user-attachments/assets/96ea08c7-2b2f-45ed-a929-425ec398f89c" />
+<img width="647" height="479" alt="Screenshot 2026-08-19 at 11 54 37 PM" src="https://github.com/user-attachments/assets/34ed21d4-50ba-4eef-8c41-44a12225284e" />
 
-<img width="1470" height="956" alt="Screenshot 2026-07-25 at 3 32 50 PM" src="https://github.com/user-attachments/assets/e53d658b-e282-4d5d-b25d-824f6241a9be" />
+
 
 <img width="1470" height="956" alt="Screenshot 2026-07-25 at 5 32 52 PM" src="https://github.com/user-attachments/assets/dadc984b-45d0-401d-ad5d-9f52f909ed24" />
 
